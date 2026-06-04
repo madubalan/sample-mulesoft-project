@@ -1,0 +1,47 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+# IDE
+.classpath
+.c9/
+.cache/
+.DS_Store
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.settings/
+.vscode/
+*.code-workspace
+
+# Mule
+.mule/
+temp/
+.mulerc
+.mule-ide-project.xml
+.muleproject
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Other
+*.log
+*.swp
+*.swo
+*~
+.classpath
+.project
+.settings
+*.class
